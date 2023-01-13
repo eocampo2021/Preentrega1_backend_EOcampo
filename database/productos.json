@@ -1,0 +1,94 @@
+[
+    {
+      "title": "Auto",
+      "description": "Ford",
+      "price": 2100000,
+      "code": "ford1234",
+      "thumbnail": "url://stockimg/net/1234.png",
+      "stock": 50,
+      "id": 1
+    },
+    {
+      "title": "SUV",
+      "description": "Jeep",
+      "price": 1199999,
+      "code": "Jeep_Renegade",
+      "thumbnail": "url://stockimg/net/J_Re1234.png",
+      "stock": 17,
+      "id": 2
+    },
+    {
+      "title": "Auto",
+      "description": "Fiat",
+      "price": 1199999,
+      "code": "FIAT9999",
+      "thumbnail": "url://stockimg/net/f1234.png",
+      "stock": 20,
+      "id": 3
+    },
+    {
+      "title": "Camioneta",
+      "description": "Fiat",
+      "price": 8190000,
+      "code": "FIAT_TORO2022",
+      "thumbnail": "url://stockimg/net/f_Toro1234.png",
+      "stock": 20,
+      "id": 4
+    },
+    {
+      "title": "Auto",
+      "description": "NISSAN",
+      "price": 4190000,
+      "code": "NISSAN_VERSA",
+      "thumbnail": "url://stockimg/net/N_Versa1234.png",
+      "stock": 22,
+      "id": 5
+    },
+    {
+      "title": "Auto",
+      "description": "NISSAN",
+      "price": 7190000,
+      "code": "NISSAN_KICKS",
+      "thumbnail": "url://stockimg/net/N_KICKS1234.png",
+      "stock": 22,
+      "id": 6
+    },
+    {
+      "title": "Camioneta",
+      "description": "TOYOTA",
+      "price": 9010000,
+      "code": "TOYOTA_HILUX",
+      "thumbnail": "url://stockimg/net/T_HI1234.png",
+      "stock": 7,
+      "id": 7
+    },
+    {
+      "title": "Auto",
+      "description": "TOYOTA",
+      "price": 4010000,
+      "code": "TOYOTA_COROLLA",
+      "thumbnail": "url://stockimg/net/T_Co1234.png",
+      "stock": 35,
+      "id": 8
+    },
+    {
+      "title": "Auto",
+      "description": "TOYOTA",
+      "price": 4010000,
+      "code": "TOYOTA_COROLLA",
+      "thumbnail": "url://stockimg/net/T_Co1234.png",
+      "stock": 35,
+      "id": 9
+    },
+    {
+      "title": "Auto",
+      "description": "TOYOTA",
+      "price": 4010000,
+      "code": "TOYOTA_COROLLA",
+      "thumbnail": "url://stockimg/net/T_Co1234.png",
+      "stock": 35,
+      "id": 10
+    }
+  
+  ]
+  
